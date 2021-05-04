@@ -1,1 +1,2 @@
-
+Loan-Approval-Prediction
+this file can only be opened using jupyter notebook this is a loan prediction program using the libraries: 1.Pandas for importing the data and processing it for better output 2.Matplotlib to graphically represent the data and relationship between them 3.Logistic regression from sklearn.linear_model is used to predict whether the loan will be approved or not depending upon the FICO score and Amount
